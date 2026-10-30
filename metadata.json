@@ -1,0 +1,6 @@
+{
+  "name": "MARS — Planetary Simulation & Research Platform",
+  "description": "Interactive Mars planetary simulation, scientific telemetry, 3D surface explorer, atmospheric lab, and Earth-Mars comparison platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
